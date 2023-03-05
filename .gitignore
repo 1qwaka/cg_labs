@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#qt creator files and dirs
+*.pro.user
+**/build-*/**
